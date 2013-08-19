@@ -21,6 +21,7 @@ edit login, password and ip of the livebox to meet your specs
 
 
   you can use:
+  
     checkIp <- to get your ip adress
     
     ipChanged <- to see if your ip has changed
